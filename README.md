@@ -99,26 +99,9 @@ Once the simulation is complete, the following commands can be used to open the 
 ![FIFO WAVEFORM](https://github.com/Karan-nevage/Asynchronous-FIFO-Design-and-Verification/blob/main/images/FIFO%20WAVEFORM.png?raw=true)
 
 ---
-### ✒️ Author & Contribution
+### ✒️ Author & Contribution = 0
 
-**Author:** Karankumar Nevage
-**Email:** karanpr9423@gmail.com
-**LinkedIn:** [https://www.linkedin.com/in/karankumar-nevage/](https://www.linkedin.com/in/karankumar-nevage/)
-
-Feel free to fork this repository, submit issues, or create pull requests for enhancements. Contributions to add new test sequences or improve coverage are welcome.
-
----
-
-### 📜 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
----
-
-### 📈 Project Status
-
-**Version:** 0.1
-**Last Update:** 21 September 2025
+**Author:** Shiva Yadav
 
 ---
 
